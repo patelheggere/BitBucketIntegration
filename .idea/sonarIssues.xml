@@ -1,0 +1,1554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/bitbucketintegration/Main2Activity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/bitbucketintegration/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/bitbucketintegration/ui/dashboard/DashboardFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/patelheggere/bitbucketintegration/ui/home/HomeFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_dashboard.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/layout/fragment_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/java/com/patelheggere/farmconnect/activity/farmermain/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/java/com/patelheggere/farmconnect/activity/farmermain/ui/home/HomeFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/java/com/patelheggere/farmconnect/activity/merchantmain/MerchantMainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/java/com/patelheggere/farmconnect/activity/merchantmain/ui/dashboard/DashboardFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/java/com/patelheggere/farmconnect/activity/merchantmain/ui/gallery/GalleryFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/java/com/patelheggere/farmconnect/activity/merchantmain/ui/home/HomeFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/java/com/patelheggere/farmconnect/activity/merchantmain/ui/notifications/NotificationsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/java/com/patelheggere/farmconnect/activity/merchantmain/ui/notifications/adapter/FarmerCropNotificationAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/java/com/patelheggere/farmconnect/activity/merchantmain/ui/send/SendFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/java/com/patelheggere/farmconnect/activity/merchantmain/ui/share/ShareFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/java/com/patelheggere/farmconnect/activity/merchantmain/ui/slideshow/SlideshowFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/java/com/patelheggere/farmconnect/activity/merchantmain/ui/tools/ToolsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/java/com/patelheggere/farmconnect/activity/registration/RegistrationActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/java/com/patelheggere/farmconnect/model/FarmerAndCropDetails.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/java/com/patelheggere/farmconnect/model/FarmerBidNotificationModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/java/com/patelheggere/farmconnect/network/ApiInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/java/com/patelheggere/farmconnect/notification/MyNotificationManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/res/layout/activity_merchant_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/res/layout/adds_alert_view.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/res/layout/app_bar_merchant_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/res/layout/content_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/res/layout/content_merchant_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/res/layout/farmer_notification_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/res/layout/fragment_home.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/res/layout/fragment_notifications_farmer.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/res/layout/merchant_crop_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/res/navigation/farmer_mobile_navigation_bottom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/res/navigation/farmer_mobile_navigation_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/res/navigation/merchant_mobile_navigation_bottom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/res/navigation/mobile_navigation_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Farmconnect/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mili/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mili/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mili/app/src/main/java/com/oustme/mili/utils/exoplayer/SingletonExoPlayer.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../mili/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../s3Imageencryption/app/src/main/java/com/patelheggere/s3imageencryption/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../stepsforaar/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../stepsforaar/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../stepsforaar/app/src/main/java/com/patelheggere/stepsforaar/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../stepsforaar/app/src/main/res/layout/activity_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../stepsforaar/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../stepsforaar/oust_sdk/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Exide/platforms/android/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PatelCor/platforms/android/CordovaLib/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PatelCor/platforms/android/CordovaLib/cordova.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PatelCor/platforms/android/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PatelCor/platforms/android/app/src/main/assets/www/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PatelCor/platforms/android/app/src/main/assets/www/js/index.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PatelCor/platforms/android/app/src/main/java/cordova/plugin/oustplugin_lib/oustplugin_lib.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PatelCor/platforms/android/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PatelCor/platforms/android/wrapper.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/alltabs/SecondMainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/alltabs/ui/aspiration/AspirationFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/alltabs/ui/dashboard/DashboardFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/alltabs/ui/games/GamesFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/alltabs/ui/home/HomeFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/alltabs/ui/knowledge/KnowledgeFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/alltabs/ui/notifications/NotificationsFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/alltabs/ui/outdoor/OutdoorFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/aspiration/adapter/AspirationSectionsPagerAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/aspiration/fragments/FirstPreferenceFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/aspiration/fragments/SecondPreferenceFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/details/DetailsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/games/adapter/GamesSectionsPagerAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/games/fragments/FirstPreferenceFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/games/fragments/SecondPreferenceFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/knowledge/KnowledgeBottomNavActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/knowledge/adapter/KnowledgeSectionsPagerAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/knowledge/fragments/FirstPreferenceFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/knowledge/fragments/SecondPreferenceFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/outdoor/adapter/OutDoorSectionsPagerAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/outdoor/fragments/FirstPreferenceFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/outdoor/fragments/SecondPreferenceFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/activity/post/PostActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/adapter/AspirationFirstPrefAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/adapter/GameFirstPrefAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/adapter/KnowledgeFirstPrefAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/adapter/OutDoorFirstPrefAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/model/FirstPreferenceDataModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/network/ApiInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/java/com/patelheggere/studentcontinent/ui/home/HomeFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/res/layout/activity_details.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/res/layout/activity_second_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/res/layout/app_bar_main.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/res/layout/app_bar_main_2.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/res/layout/aspiration_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/res/layout/content_main_2.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/res/layout/first_preference_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/res/layout/games_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/res/layout/knowledge_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/res/layout/outdoor_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/res/layout/second_preference_fragment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/res/menu/bottom_nav_menu.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/res/navigation/mobile_navigation.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/res/values-v21/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/StudentContinent/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hello/platforms/android/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hello/platforms/android/app/src/main/java/com/example/hello/MainActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hello/platforms/android/app/src/main/java/cordova/plugin/oustplugin_lib/oustplugin_lib.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hello/platforms/android/app/src/main/res/xml/config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hello/platforms/android/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hello/platforms/android/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hello/platforms/android/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hello/platforms/android/wrapper.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/hello/www/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oust-gradle_bitbucket/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oust-gradle_bitbucket/app/src/main/java/com/oustme/oustapp/activity/SplashActivity_.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oust-gradle_bitbucket/app/src/main/java/com/oustme/oustapp/activity/newlogin/NewLoginActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oust-gradle_bitbucket/app/src/main/java/com/oustme/oustapp/activity/newlogin/fragments/EnterpriseFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oust-gradle_bitbucket/app/src/main/java/com/oustme/oustapp/activity/newlogin/fragments/MobilNoFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oust-gradle_bitbucket/app/src/main/java/com/oustme/oustapp/activity/newlogin/fragments/SAMLFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oust-gradle_bitbucket/app/src/main/java/com/oustme/oustapp/helper/AppConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oust-gradle_bitbucket/app/src/main/java/com/oustme/oustapp/library/tools/OustAmplitudeTools.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oust-gradle_bitbucket/app/src/main/java/com/oustme/oustapp/pojos/common/OustApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oust-gradle_bitbucket/app/src/main/java/com/oustme/oustapp/service/MyFirebaseInstanceIDService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oust-gradle_bitbucket/app/src/main/java/com/oustme/oustapp/service/MyFirebaseMessagingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oust-gradle_bitbucket/app/src/main/res/layout/activity_new_login.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oust-gradle_bitbucket/app/src/main/res/layout/fragment_saml.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oust-gradle_bitbucket/app/src/main/res/layout/splash.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oust-gradle_bitbucket/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oust-gradle_bitbucket/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oust-gradle_bitbucket/settings.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustcor/CordovaExamples/hello/platforms/android/app/src/main/java/oust_plugin/oustlib/oustlib.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustcor/CordovaExamples/hello/platforms/android/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/libs/AppConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/AssessmentCopyResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/LeaderBoardSearch.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/ScoresCopy.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/FFContest/FFContestAnswersActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/FFContest/FFContestPlayActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/FFContest/FFcontestStartActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/assessments/AssessmentAnalyticsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/assessments/AssessmentPlayActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/assessments/AssessmentQuestionReviewBaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/assessments/AssessmentQuestionsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/assessments/AssessmentResultActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/assessments/CheckAnswerActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/assessments/GameLetActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/assessments/NewAssessmentBaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/assessments/NewAssessmentUIActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/assessments/QuestionActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/assessments/ResultActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/assessments/learningdiary/LearningDiaryActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/AcademicsSettingActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/AlertCommentsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/CatalogListActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/CplBaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/FeedCardActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/GeneralSettingActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/NewAlertActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/NewLandingActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/NewLandingActivity3.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/NotificationsSettingActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/PlayActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/ReportProblemListActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/ShareFeedActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/SplashActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/UserProfileActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/UserSettingActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/apptutorial/AppTutorialActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/feed/FeedPreviewActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/leaderboard/activity/NewLeaderBoardActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/leaderboard/adapter/NewLeaderBoardAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/noticeBoard/activity/NBPostCreateActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/noticeBoard/activity/NBPostDetailsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/noticeBoard/activity/NBTopicDetailActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/common/noticeBoard/adapters/NBAllPostAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/cordovacall/CordovaCallActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/courses/LessonsActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/courses/learningmapmodule/AdaptiveLearningMapModuleActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/courses/learningmapmodule/LearningMapModuleActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/courses/newlearnngmap/NewLearningMapActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/courses/newlearnngmap/RegularModeLearningMapActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/activity/rough/PopUpActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/adapter/common/CplBaseAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/adapter/common/FriendProfileRowAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/adapter/common/LearningDiaryAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/adapter/common/NewLandingAlertAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/adapter/common/NewLandingModuleAdaptera.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/adapter/common/NewLandingModuleAdapterc.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/adapter/common/NewTabFragmentPagerAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/adapter/common/ToDoExpandListAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/adapter/courses/CourseMultilingualRowAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/adapter/courses/ImageTextAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/adapter/courses/NewLandingCoursesAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/adapter/courses/ReviewModeHorizontalAdapter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/customviews/AddFloatingActionButton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/customviews/CircleImageView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/customviews/CornerImageView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/customviews/CustomRoundedImageView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/customviews/CustomViewPager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/customviews/FloatingActionButton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/customviews/FloatingActionsMenu.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/customviews/MyCustomLayoutManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/customviews/TryRippleView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/downloadmanger/DownloadFiles.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/firebase/common/CplCollectionData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/firebase/course/CourseDataClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/assessments/CheckAnswersFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/common/EventLeaderBoardFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/common/ReadmorePopupFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/courses/JumbleWordFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/courses/JumbleWordFragment2.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/courses/LearningCard_ResultFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/courses/LearningCard_StartFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/courses/LearningPlayFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/courses/LearningReviewFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/courses/MediaUploadForKitKatFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/courses/MediaUploadQuestionFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/courses/ModuleOverViewFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/courses/VideoOverlayFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/courses/adaptive/AdaptiveLearningPlayFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/courses/adaptive/AdaptiveLearningPlayFragmentNew.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/courses/adaptive/AdaptiveMediaUploadForKitKatFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/courses/adaptive/AdaptiveMediaUploadQuestionFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/courses/adaptive/AdaptiveModuleOverViewFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/courses/adaptive/AdaptiveReadmorePopupFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/courses/adaptive/NonAdaptiveLearningPlayFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/fragments/courses/learningplaynew/LearningPlayFragmentNew.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/interfaces/common/CommonLandingDataCallback.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/interfaces/course/LearningModuleInterface.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/launcher/OustLauncher.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/network/ApiClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/network/NetworkRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/request/SubmitCourseCardRequestData.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/request/SubmitRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/response/assessment/Scores.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/service/DownLoadFilesIntentService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/service/DownloadCourseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/service/OustNotificationHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/tools/BitmapGenerator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/tools/HttpManager.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/tools/OustGATools.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/tools/OustRestClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/tools/OustSdkApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/tools/OustSdkTools.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/tools/TrackSelectionHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/tools/appconstants/AppConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/tools/htmlrender/HtmlTextView.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/java/com/oustme/oustsdk/util/ApiCallUtils.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/activity_lessons.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/drawable/ic_download_orange.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/drawable/ic_round_tick.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/drawable/ic_tick.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_alert_comments.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_allfavouritecardsofclass.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_app_tutorial.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_archivelist.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_assessment_analytics.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_assessmentplay.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_assessmentquestions.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_conf_tab.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_cordova_call.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_coursemultilingual.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_cpl_base.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_cpl_intro.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_feed_preview.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_feed_video_card.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_feed_video_card_ui.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_learning_diary.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_lessons.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_nbcomment.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_nbmembers_list.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_nbpost_create.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_nbpost_details.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_new_feed_ui.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_newlanding.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_newlearningmap.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_playmodule.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_pop_up.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/activity_scrom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/fragment_learningquiz.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/leader_board_collapsing_lyt.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/nb_post_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/new_catalog_bottom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/new_catalog_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/new_feed_row_item.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/new_landing_layout.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/new_leader_board_row_item2.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/layout/user_general.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/values/drawable_resource_defaults.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/values/drawables_resource_string.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/values/resturls.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/values/styles.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/app/src/main/res/xml/network_security_config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/oustsdk_bitbucket/gradle.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/patelCordova/www/index.html">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/patelCordova/www/js/index.js">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
